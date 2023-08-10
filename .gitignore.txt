@@ -6,3 +6,5 @@
 /pdf_reader_texto.ipynb
 /temas.ipynb
 /usuario_pc.ipynb
+/logos
+.ipynb_checkpoints
